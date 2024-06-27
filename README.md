@@ -2,6 +2,8 @@
 
 This project combines two cryptographic concepts, Kerberos and Diffie-Hellman, to create a custom solution for tokenizing/encrypting data before transmitting it over the internet. The aim is to ensure data security with dynamically generated keys unique to each request. Below is an explanation of the logic behind the implementation.
 
+https://medium.com/@fmoraes87/uma-jornada-na-criptografia-de-dados-kerberos-diffie-hellman-a0a9badba3e9
+
 ## Executing code
 
 ### Tokenizer-server
